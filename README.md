@@ -98,14 +98,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Harish222600&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="Harish GitHub stats" 
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Harish222600&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Harish222600&theme=tokyonight&hide_border=true" 
-    alt="Harish GitHub streak" 
+  <img
+    src="https://streak-stats.demolab.com?user=Harish222600&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
+
