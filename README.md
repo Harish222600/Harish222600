@@ -95,14 +95,17 @@
 - 🏆 Best Performer Award – Zoho Event App
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish222600&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish222600&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Harish222600&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Harish GitHub stats" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Harish222600&theme=tokyonight&hide_border=true" 
+    alt="Harish GitHub streak" 
+    height="165"
+  />
 </p>
-
----
-
-### 🚀 *“Building scalable applications, one commit at a time.”*
